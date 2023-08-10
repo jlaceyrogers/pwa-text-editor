@@ -1,4 +1,3 @@
-Certainly! Here's how you could describe the code you've provided in a README file:
 
 ---
 
